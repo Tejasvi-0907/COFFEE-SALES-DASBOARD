@@ -18,7 +18,11 @@ Pivot tables & charts
 
 Excel formulas
 
-Dashboard design & interactivity
+Dashboard design & interactivity - 
+
+Here is the Dashboard for Coffee sales Analysis :
+<img width="1556" height="752" alt="Screenshot 2024-12-03 150042" src="https://github.com/user-attachments/assets/7c3ae14d-b173-475e-ae00-ecd3d68902a4" />
+
 
 Project Highlights:
 This project helped me strengthen my data visualization and storytelling skills using Excel. It reflects my ability to transform raw data into actionable insights for better decision-making.
